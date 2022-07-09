@@ -34,7 +34,11 @@
 ## &nbsp;Social links
 
 <div style="display: inline_block">
-
-<img href="https://www.linkedin.com/in/guilherme-rocha-cardoso-61b602149/"align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-
+ <a href="https://www.linkedin.com/in/guilherme-rocha-cardoso-61b602149/">
+  <img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
+ 
+  <a href="mailto:guilhermecard2so@gmail.com">
+  <img align="center" alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ </a>
 </div>
