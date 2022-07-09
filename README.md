@@ -1,15 +1,12 @@
 <h1> Olá, mundo! Eu sou o Guilherme Cardoso! <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" width="30px" height="30px"></h1>
  
 
-- <img src="https://portalcooperacao.info.ufrn.br/images/animacao/ufrrj.png" width="30px"> Discente em Ciência da Computação na Universidade Federal Rural do Rio de Janeiro (UFRRJ)
+- 🎓 Discente em Ciência da Computação pela UFRRJ-IM
 
-- 🔥 Desenvolverdor Full Stack WEB em formação pela RecodePro
+- 🔥 Desenvolverdor Full Stack WEB em formação | RECODEPRO 2022
 
-- Emprego
 
-- 👨‍💻 Meus projetos estão disponíveis em [ ]
-
-<br><br>
+<br>
 
 # 🛠 &nbsp;Tecnologias que domino
 
@@ -36,11 +33,8 @@
 
 ## &nbsp;Social links
 
-<div>
+<div style="display: inline_block">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rocha-cardoso-61b602149/)
+<img href="https://www.linkedin.com/in/guilherme-rocha-cardoso-61b602149/"align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rocha-cardoso-61b602149/)
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rocha-cardoso-61b602149/)
 </div>
