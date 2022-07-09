@@ -38,7 +38,7 @@
   <img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
  
-  <a href="mailto:guilhermecard2so@gmail.com">
+  <a href="mailto:guilhermecard2so@gmail.com?subject=Bl%C3%A1%20Bl%C3%A1%20bl%C3%A1&body=123456789">
   <img align="center" alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
 </div>
