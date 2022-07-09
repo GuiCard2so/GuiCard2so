@@ -29,7 +29,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCard2so&layout=compact&theme=dracula" alt="GuiCard2so's most languages"/>
 </p>
 
-<br><br>
+<br>
 
 ## &nbsp;Social links
 
@@ -38,7 +38,11 @@
   <img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
  
-  <a href="mailto:guilhermecard2so@gmail.com?subject=Bl%C3%A1%20Bl%C3%A1%20bl%C3%A1&body=123456789">
+  <a href="mailto:guilhermecard2so@gmail.com?subject=Contato%20via%20GitHub">
   <img align="center" alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ </a>
+ 
+  <a href="https://www.instagram.com/guicard2so/">
+  <img align="center" alt="INSTAGRAM" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
  </a>
 </div>
