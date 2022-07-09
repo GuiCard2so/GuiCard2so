@@ -1,4 +1,4 @@
-<h1> Olá, mundo! Eu sou o Guilherme Cardoso! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"></h1>
+<h1> Olá, mundo! Eu sou o Guilherme Cardoso! <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" width="30px" height="30px"></h1>
  
 
 - <img src="https://portalcooperacao.info.ufrn.br/images/animacao/ufrrj.png" width="30px"> Discente em Ciência da Computação na Universidade Federal Rural do Rio de Janeiro (UFRRJ)
@@ -36,7 +36,7 @@
 
 ## &nbsp;Social links
 
-<div style="display: inline_block">
+<div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rocha-cardoso-61b602149/)
 
