@@ -1,4 +1,4 @@
-<img src="https://github.com/GuiCard2so/docs/blob/main/IMG_20210107_160852679_4%20(1).jpg">
+<!-- COLOCAR UMA FOTO LEGAL POSTERIORMENTE: <img src="">-->
 
 <h1> Olá, mundo! Eu sou o Guilherme Cardoso! <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" width="30px" height="30px"></h1>
  
@@ -10,7 +10,7 @@
 
 <br>
 
-# 🛠 &nbsp;Tecnologias que domino
+# 🛠 &nbsp;Tecnologias que estou aprendendo
 
 <div style="display: inline_block">
 <img align="center" alt="HTML5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
